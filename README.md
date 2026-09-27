@@ -26,3 +26,6 @@ Different room names change the displayed channel name.
 
 ## Important
 This build is the call-room UI/lock flow. It does not create real internet voice networking by itself. Real multi-user microphone audio requires a WebRTC signaling/backend service (or a hosted calling provider) in addition to GitHub Pages.
+
+
+{name:"Eymrola", img:"Profile/profile1.gif", status:"In the call", badge:"HOST"},

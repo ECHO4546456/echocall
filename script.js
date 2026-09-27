@@ -2,9 +2,12 @@
   // Change this one value to whatever VC password you want.
   const VC_PASSWORD = "VC-UNLOCK";
   const profiles = [
-    {name:"Eymrola", img:"Profile/profile1.gif", status:"In the call", badge:"HOST"},
-    {name:"A-SHEN-TADES", img:"Profile/profile2.webp", status:"Listening", badge:"MEMBER"},
-    {name:"TOZI", img:"Profile/profile3.webp", status:"Listening", badge:"MEMBER"}
+    {name:"A-SHEN-TADES", img:"Profile/profile2.webp", status:"Listening", badge:"HOST"},
+    {name:"stains", img:"Profile/profile4.jpg", status:"Listening", badge:"TITLE👑"},
+    {name:"EX", img:"Profile/profile5.webp", status:"Listening", badge:"BAIBAI"},
+    {name:"KUYA", img:"Profile/profile6.webp", status:"Listening", badge:"POOSKIE BEAR🧸"},
+    {name:"TOZI", img:"Profile/profile3.webp", status:"Listening", badge:"NOODLE EATER"}
+
   ];
 
   const $ = s => document.querySelector(s);
