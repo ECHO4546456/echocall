@@ -5,7 +5,6 @@
     {name:"A-SHEN-TADES", img:"Profile/profile2.webp", status:"Listening", badge:"HOST"},
     {name:"stains", img:"Profile/profile4.jpg", status:"Listening", badge:"TITLE👑"},
     {name:"EX", img:"Profile/profile5.webp", status:"Listening", badge:"BAIBAI"},
-    {name:"KUYA", img:"Profile/profile6.webp", status:"Listening", badge:"POOSKIE BEAR🧸"},
     {name:"TOZI", img:"Profile/profile3.webp", status:"Listening", badge:"NOODLE EATER"}
 
   ];

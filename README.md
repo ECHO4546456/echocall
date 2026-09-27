@@ -29,3 +29,4 @@ This build is the call-room UI/lock flow. It does not create real internet voice
 
 
 {name:"Eymrola", img:"Profile/profile1.gif", status:"In the call", badge:"HOST"},
+{name:"KUYA", img:"Profile/profile6.webp", status:"Listening", badge:"POOSKIE BEAR🧸"},
